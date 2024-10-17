@@ -1,1 +1,1 @@
-# Cable-fault-and-Centralized-Streetlight-Monitoring-system
+#Eliminating the requirement for human intervention in identifying both streetlight and cable faults, the sensors are designed to detect various parameters, including electrical current flow, voltage levels, and potential disruptions or anomalies within the lighting system. The proposed approach can process the sensordata in real-time.
